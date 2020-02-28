@@ -43,7 +43,7 @@ const (
 
 	amqpAnnotationFormat = "amqp.annotation.%s >%s '%v'"
 
-	defaultPrefetchCount = 1000
+	defaultPrefetchCount = 50
 
 	epochKey = MsftVendor + ":epoch"
 )
